@@ -1,5 +1,5 @@
 # Image processing basics
-Welocme, This repo aims to give a better understanding abount image processing
+Welocme, This repo aims to give a better understanding about image processing
 
 ## contents
 
