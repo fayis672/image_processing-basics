@@ -1,9 +1,9 @@
 # Image processing basics
-Welocme, This repo aims to give a better understanding about image processing
+Welcome, This repo aims to give a better understanding about image processing
 
 ## contents
 
-1. [Neagtive filter](https://github.com/fayis672/image_processing-basics/tree/main/image_filters/negative) <br/>
+1. [Negative filter](https://github.com/fayis672/image_processing-basics/tree/main/image_filters/negative) <br/>
 The negative of an image with gray levels in the range [0, L-1] is
 obtained by using the negative transformation, which is given by the
 expression
