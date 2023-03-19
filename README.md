@@ -21,3 +21,12 @@ image into a wider range of output levels. The opposite is true of higher values
 levels. We would use a transformation of this type to expand the values of dark pixels in
 an image while compressing the higher-level values. The opposite is true of the inverse
 log transformation.
+![image info](images/log_transfrom_image.png)
+2. [Power law transform](https://github.com/fayis672/image_processing-basics/tree/main/image_filters/power_law_transform) <br/>
+Power-law transformations have the basic form: <br/>
+``` S = c r^γ ``` </br>
+Where c and γ are positive constants.As
+in the case of the log transformation, power-law curves with fractional values of γ map a
+narrow range of dark input values into a wider range of output values, with the opposite
+being true for higher values of input levels
+![image info](images/power_law_transfrom.png)
