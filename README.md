@@ -12,6 +12,7 @@ Reversing the intensity levels of an image in this manner produces the equivalen
 photographic negative. This type of processing is particularly suited for enhancing white
 or gray detail embedded in dark regions of an image, especially when the black areas are
 dominant in size.<br/>
+![image info](images/negative-image.png)
 2. [Log transform](https://github.com/fayis672/image_processing-basics/tree/main/image_filters/log_transfrom) <br/>
 The general form of the log transformation is: <br/>
 ``` S = c log(1+r) ``` </br>
